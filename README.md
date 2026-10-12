@@ -1,5 +1,7 @@
 # Battlecrew Space Pirates Revived
 
+This is Slop.
+
 > Battlecrew Space Pirates Revived is a fan project. It is not affiliated with or endorsed by DONTNOD ELEVEN.
 > This was tested and made for a steam copy.
 
