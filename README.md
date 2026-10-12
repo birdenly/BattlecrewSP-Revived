@@ -9,10 +9,11 @@ A project to get BSP working again. Currently, the game shows the following erro
 
 ![alt text](image.png)
 
+If you want to give a thanks: https://ko-fi.com/birden. No perks or help will be given to this, Ko-fi is actually for different non-AI projets i do.
 
 ## Getting started
 
-1. Download the release files.
+1. Download the release files from [HERE](https://github.com/birdenly/BattlecrewSP-Revived/releases).
 2. Place the files next to your game executable (`Battlecrew Space Pirates\WAL\Binaries\Win64\WAL.exe`).
 3. Run `Patch_game.exe`. This patches the game executable to work offline/locally and creates a backup of your original file.
 4. Run `server.exe`.
