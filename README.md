@@ -9,7 +9,7 @@ A project to get BSP working again. Currently, the game shows the following erro
 
 ![alt text](image.png)
 
-If you want to give a thanks: https://ko-fi.com/birden. No perks or help will be given to this, Ko-fi is actually for different non-AI projets i do.
+If you want to give a thanks: https://ko-fi.com/birden. No perks or help will be given to this, Ko-fi is actually for different non-AI projects i do.
 
 ## Getting started
 
